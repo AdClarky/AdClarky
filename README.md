@@ -39,7 +39,7 @@ Alongside software development, I enjoy self-hosting infrastructure on a persona
 
   | Member | Role | Primary Responsibilities |
   | :--- | :---: | :--- |
-  | **Smudge**<br><sub>Younger, Inexperienced Dev</sub> | <img src="smudge.jpg" width="140" alt="Smudge" /> | • Breaking everything<br>• Eating all the food<br>• Bad work posture (constantly upside down) |
+  | **Smudge**<br><sub>Inexperienced Dev</sub> | <img src="smudge.jpg" width="140" alt="Smudge" /> | • Breaking everything<br>• Eating all the food<br>• Bad work posture (constantly upside down) |
   | **Poppy**<br><sub>Team Leader</sub> | <img src="poppy.jpg" width="140" alt="Poppy" /> | • Enforcing strict no talking workplace<br>• Investigating missing food<br>• Leads posture reviews |
 
   <br>
