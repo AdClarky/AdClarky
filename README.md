@@ -1,5 +1,5 @@
 # Toby Clark 
-<a href="https://www.linkedin.com/in/toby-clark-43a5a6225/">
+<a href="https://www.linkedin.com/in/tobyclarky/">
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" width="32" height="32" alt="LinkedIn" />
 </a>
 
